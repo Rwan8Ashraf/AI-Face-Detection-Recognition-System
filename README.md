@@ -73,11 +73,11 @@ It detects and recognizes faces in real-time from webcam input. The system can r
 - [ x ] Setup GitHub repo and environment  
 - [ x ] Implement real-time face detection  
 - [ x ] Integrate DeepFace for face recognition  
-- [ ] Develop GUI with CustomTkinter  
-- [ ] Implement snapshot functionality  
-- [ ] Implement new face registration  
-- [ ] Test system accuracy  
-- [ ] Prepare demo and documentation  
+- [ x ] Develop GUI with CustomTkinter  
+- [ x ] Implement snapshot functionality  
+- [ x ] Implement new face registration  
+- [ x ] Test system accuracy  
+- [ x ] Prepare demo and documentation  
 
 ## Evaluation Criteria
 **Success Metrics:**  
